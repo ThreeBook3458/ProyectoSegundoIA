@@ -1,4 +1,4 @@
-# 📦 Sistema Logístico de Búsqueda Inteligente y Toma de Decisiones Adversarias
+## Sistema Logístico de Búsqueda Inteligente y Toma de Decisiones Adversarias
 
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![Streamlit App](https://img.shields.io/badge/Streamlit-1.28%2B-red.svg)](https://streamlit.io/)
@@ -7,7 +7,7 @@
 
 ---
 
-## 📋 Descripción General
+## Descripción General
 
 Este proyecto implementa una solución integral basada en Inteligencia Artificial y Teoría de Juegos para la **optimización logística de rutas de distribución y la toma de decisiones estratégicas adversarias**. 
 
@@ -15,7 +15,7 @@ El sistema modela una red logística en una cuadrícula de $12 \times 12$ con to
 
 ---
 
-## 🧠 Arquitectura de Fases y Algoritmos
+## Arquitectura de Fases y Algoritmos
 
 El proyecto se estructura modularmente a lo largo de las siguientes fases:
 
@@ -68,7 +68,7 @@ Ejecución estadística comparativa (20 repeticiones por algoritmo) para la reso
 
 ---
 
-## 💻 Interfaz Gráfica Interactiva (`app.py`)
+## Interfaz Gráfica Interactiva (`app.py`)
 
 El proyecto incluye una aplicación web basada en **Streamlit** que sirve como panel de control interactivo para visualizar los resultados de la libreta Jupyter (`proyecto2.ipynb`) de forma limpia y estilizada.
 
@@ -82,7 +82,7 @@ El proyecto incluye una aplicación web basada en **Streamlit** que sirve como p
 
 ---
 
-## 📂 Estructura del Repositorio
+## Estructura del Repositorio
 
 ```text
 .
@@ -97,7 +97,7 @@ El proyecto incluye una aplicación web basada en **Streamlit** que sirve como p
 
 ---
 
-## ⚙️ Requisitos e Instalación
+## Requisitos e Instalación
 
 ### Pre-requisitos
 * Python 3.10 o superior.
@@ -129,7 +129,7 @@ El proyecto incluye una aplicación web basada en **Streamlit** que sirve como p
 
 ---
 
-## 🚀 Instrucciones de Uso
+## Instrucciones de Uso
 
 ### Opción 1: Ejecutar desde Jupyter Notebook
 Para revisar la lógica paso a paso, ejecutar experimentos o modificar parámetros:
@@ -152,7 +152,7 @@ Una vez ejecutado el comando, se abrirá automáticamente en tu navegador predet
 
 ---
 
-## 📊 Resultados Destacados
+## Resultados Destacados
 
 | Métrica / Algoritmo | Recocido Simulado | Algoritmo Genético |
 | :--- | :---: | :---: |
@@ -166,7 +166,7 @@ Una vez ejecutado el comando, se abrirá automáticamente en tu navegador predet
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 * **Lenguaje:** Python 3.14
 * **Librerías Cuentas/Matemáticas:** `numpy`, `pandas`
@@ -176,6 +176,6 @@ Una vez ejecutado el comando, se abrirá automáticamente en tu navegador predet
 
 ---
 
-## ✉️ Licencia y Créditos
+## Licencia y Créditos
 
 Proyecto desarrollado para el módulo de **Sistemas Inteligentes / Inteligencia Artificial**. Distribuido bajo la licencia MIT.
