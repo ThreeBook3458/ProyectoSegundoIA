@@ -43,7 +43,7 @@ Ejecución estadística comparativa (20 repeticiones por algoritmo) para la reso
     $$P(\Delta E, T) = e^{-\frac{\Delta E}{T}}$$
 * **Algoritmo Genético (AG):**
   * Representación cromosómica basada en permutaciones de la secuencia de entregas.
-  * Selección por torneo ($k = 3$), Cruza de Orden (OX1) para preservar permutaciones válidas y Mutación por Intercambio (*Swap Mutation*).
+  * Selección por torneo ($k = 2$), Cruza de Orden (OX1) para preservar permutaciones válidas y Mutación por Intercambio (*Swap Mutation*).
 
 ### 4. Teoría de Juegos y Análisis Estratégico (Fase 5)
 * **Matriz de Pagos $3 \times 3$:** Modelado de un juego simultáneo de dos jugadores en forma normal entre nuestro Agente Logístico (Filas) y un Competidor Rivals (Columnas).
